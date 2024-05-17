@@ -20,4 +20,5 @@
 .icon {
   display: flex;
   margin-bottom: 4px;
+  align-items: center;
 }
